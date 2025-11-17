@@ -30,9 +30,6 @@ Abra [index.html](index.html) no navegador para ver o projeto.
 ## Contribuição
 Contribuições são bem-vindas: abra uma issue ou um pull request com melhorias ou correções.
 
-## Licença
-MIT — veja o cabeçalho do repositório para detalhes.
-
 ## Contato
 - Email no rodapé do site (link em [index.html](index.html))  
 - LinkedIn/GitHub: links no bloco de contato em [index.html](index.html)# portfolio-celio
